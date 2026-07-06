@@ -1,8 +1,8 @@
-name: mylog
+name: crs_log
 description: "Simple colorful Flutter logger"
 version: 0.0.1
-homepage: https://github.com/Sarathchandrarajan/mylog.git
-repository: https://github.com/Sarathchandrarajan/mylog.git
+homepage: https://github.com/Sarathchandrarajan/crs_log.git
+repository: https://github.com/Sarathchandrarajan/crs_log.git
 
 environment:
   sdk: ^3.10.3
