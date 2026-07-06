@@ -1,7 +1,8 @@
 name: mylog
-description: "A new Flutter package project."
+description: "Simple colorful Flutter logger"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Sarathchandrarajan/mylog.git
+repository: https://github.com/Sarathchandrarajan/mylog.git
 
 environment:
   sdk: ^3.10.3
